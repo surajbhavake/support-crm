@@ -55,6 +55,7 @@ support-crm/
 │   └── .env.example
 │
 └── .gitignore
+```
 Running the Backend
 
 Go to the backend folder:
